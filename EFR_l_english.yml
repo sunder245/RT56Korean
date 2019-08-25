@@ -1,4 +1,4 @@
-﻿l_english:
+l_english:
 ##note bretagne: Olier Mordrel ideological crusader fascism
 ##François Debeauvais, Raymond Delaporte
 ##Yann Fouere a voir, Abbé Perotte ---> milice Cadudal/Perotte
@@ -7,31 +7,31 @@
 
 ##Vichy France
 ## Copy of france text to match cosmetic tags so vichy will have correct ideas
- EFR_fascism:1 "French State"
- EFR_fascism_DEF:1 "The French State"
- EFR_democratic:0 "French Republic"
- EFR_democratic_DEF:0 "The French Republic"
- EFR_neutrality:0 "Kingdom of France"
- EFR_neutrality_DEF:0 "The Kingdom of France"
- EFR_communism:0 "French People's Republic"
- EFR_communism_DEF:0 "The French People's Republic"
- EFR_fascism_ADJ:1 "French"
- EFR_democratic_ADJ:0 "French"
- EFR_neutrality_ADJ:0 "French"
- EFR_communism_ADJ:0 "French"
+ EFR_fascism:1 "프랑스국"
+ EFR_fascism_DEF:1 "프랑스국"
+ EFR_democratic:0 "프랑스 공화국"
+ EFR_democratic_DEF:0 "프랑스 공화국"
+ EFR_neutrality:0 "프랑스 왕국"
+ EFR_neutrality_DEF:0 "프랑스 왕국"
+ EFR_communism:0 "프랑스 인민 공화국"
+ EFR_communism_DEF:0 "프랑스 인민 공화국"
+ EFR_fascism_ADJ:1 "프랑스"
+ EFR_democratic_ADJ:0 "프랑스"
+ EFR_neutrality_ADJ:0 "프랑스"
+ EFR_communism_ADJ:0 "프랑스"
 
- EFR_communism_party_long:0 "Parti Communiste Français"
+ EFR_communism_party_long:0 "프랑스 공산당"
  EFR_communism_party:0 "PCF"
- EFR_democratic_party_long:0 "Parti Démocrate Populaire"
+ EFR_democratic_party_long:0 "인민 민주당"
  EFR_democratic_party:0 "PDP"
- EFR_fascism_party:0 "Mouvement Franciste"
- EFR_neutrality_party:0 "Action Française"   
- FRA_fascism_party_long:0 "Parti Populaire Français"
+ EFR_fascism_party:0 "프랑스 운동"
+ EFR_neutrality_party:0 "악시옹 프랑세즈"   
+ FRA_fascism_party_long:0 "프랑스 국민당"
  FRA_fascism_party:0 "PPF" 
- FRA_neutrality_party_long:0 "Action Française" 
+ FRA_neutrality_party:0 "악시옹 프랑세즈"  
  FRA_neutrality_party:0 "AF"  
 
- efficient_colonial_administrator:0 "Efficient Colonial Administrator"
+ efficient_colonial_administrator:0 "효율적 식민지 행정관"
  
  andre_marty:0 "André Marty"
  FRA_FREE_rene_cassin:0 "René Cassin"
