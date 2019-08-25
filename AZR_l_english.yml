@@ -1,16 +1,16 @@
-﻿l_english:
- The_destiny_of_azerbaijan_category:0 "The Destiny of Azerbaijan"
- The_destiny_of_azerbaijan_category_desc:0 "At the crossroads of worlds since centuries, the oil of Baku made Azerbaijan a region even more more strategic than ever. After the failure of the first Republic, collapsing under Bolshevik, the hope of a restored indepence survived in the heart of some. With our active support and a decisive counter-attack against the Red Empire, a new hope can be kindle and the return of Azerbaijani sovereignty can be guaranteed." 
- AZR_liberators:0 "Liberator of Azerbaijan"
+l_english:
+ The_destiny_of_azerbaijan_category:0 "아제르바이잔의 운명"
+ The_destiny_of_azerbaijan_category_desc:0 "몇 세기 전부터 세계의 교차로 역할을 했지만, 바쿠에서의 석유 발견에 따라 아제르바이잔은 더욱 중요한 전략적 지역이 되었습니다. 제1공화국의 몰락과 볼셰비키에의 항복 이후에도, 몇 사람의 가슴 속에는 독립의 꿈이 살아남았습니다. 적극적인 지원 및 붉은 제국에 대한 적극적인 반격을 통해, 새 희망에 불을 붙이고 아제르바이잔 주권 복구를 보장받을 수 있을 것입니다." 
+ AZR_liberators:0 "아제르바이잔의 해방자"
  
- AZR_form_azerbaijani_national_council:0 "Form an Azerbaijani National Council"
- AZR_establish_azerbaijani_legion:0 "Recruit a Azerbaijani Legion"
+ AZR_form_azerbaijani_national_council:0 "아제르바이잔 국회 구성"
+ AZR_establish_azerbaijani_legion:0 "아제르바이잔 군대 징병"
  AZR_establish_azerbaijani_legion_cost:0 "£army_experience §H10§! £pol_power §H25§! £command_power §H25§!"
  AZR_establish_azerbaijani_legion_cost_blocked:0 "£army_experience §R10§! £pol_power §R25§! £command_power §R25§!"
- AZR_establish_azerbaijani_legion_cost_tooltip:0 "It costs £army_experience 10, £pol_power 25 and  £command_power 25 to select this."
- AZR_establish_national_azerbaijani_government:0 "Establish a National Azerbaijani Government"
+ AZR_establish_azerbaijani_legion_cost_tooltip:0 "선택하려면 £army_experience 10, £pol_power 25 ,£command_power 25 이(가) 필요합니다."
+ AZR_establish_national_azerbaijani_government:0 "아제르바이잔 정부 설립"
  
- AZR_event.1.t:0 "The Volunteers want to go Home!"
- AZR_event.1.desc:0 "The volunteer units have been formed in order to fight [SOV.GetName] and free Azerbaijan. With the defeat of the [SOV.GetAdjective] state, these volunteers feel that their mission has been accomplished and they want to be sent home."  
- AZR_event.1.a:0 "Convince them to stay a little longer" 
- AZR_event.1.b:0 "Disband their unit."  
+ AZR_event.1.t:0 "의용군의 귀향 요구"
+ AZR_event.1.desc:0 "[SOV.GetName]와(과) 싸우고 아제르바이잔을 해방시키기 위해 의용군이 설립되었습니다. [SOV.GetAdjective]이(가) 패배함에 따라, 이 의용군은 자신들의 임무를 완수해 집으로 돌아가고 싶어합니다."  
+ AZR_event.1.a:0 "조금 더 있어달라고 설득합시다." 
+ AZR_event.1.b:0 "전역시키세요."
