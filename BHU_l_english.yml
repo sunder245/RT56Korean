@@ -16,18 +16,20 @@
 # Tslzogdu national assembly
 l_english:
 
- BHU_democratic_party:0 "Jai Gorkha"
- BHU_democratic_party_long:0 "Jai Gorkha"
+ l_english:
+
+ BHU_democratic_party:0 "자이 고르카"
+ BHU_democratic_party_long:0 "자이 고르카"
  
- BHU_sonam_tobgay_dorji:0 "Sonam Tobgay Dorji"
- BHU_sonam_tobgay_dorji2:0 "Sonam Tobgay Dorji"
- BHU_jigmi_y_thinley:0 "Jigmi Y Thinley" 
- BHU_namgyal_bahadur2:0 "Namgyal Bahadur" 
- BHU_namgyal_bahadur3:0 "Namgyal Bahadur"
- BHU_bachu_phugyal:0 "Bachu Phugyal"
- BHU_ugyen_tanghi:0 "Ugyen Tanghi"
- BHU_mayeum_choying_wangmo_dorji:0 "Mayeum Choying Wangmo Dorji"
- BHU_rin_singh_dorji:0 "Rin Singh Dorji"
+ BHU_sonam_tobgay_dorji:0 "소남 토프가이 도르지"
+ BHU_sonam_tobgay_dorji2:0 "소남 토프가이 도르지"
+ BHU_jigmi_y_thinley:0 "지그메 틴레이" 
+ BHU_namgyal_bahadur2:0 "남걀 바하두르" 
+ BHU_namgyal_bahadur3:0 "남걀 바하두르"
+ BHU_bachu_phugyal:0 "바추 퓨걀"
+ BHU_ugyen_tanghi:0 "유긴 탕기"
+ BHU_mayeum_choying_wangmo_dorji:0 "마예움 초잉 왕모 도르지"
+ BHU_rin_singh_dorji:0 "린 싱 도르지"
  
  BHU_no_army:0 "Defenseless Country"
  BHU_no_army_desc:0 "Our country has no army."
