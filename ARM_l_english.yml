@@ -6,10 +6,10 @@
 # PIRUMOV, Vladimir (1926-) Rear-admiral (1975)
 # SADOYAN, Artavazd (1904-1971)  Rear-admiral (1951)
 
- ARM_liberators:0 "Liberator of Armenia"
-
- Armenian_question_category:0 "The Armenian Question"
- Armenian_question_category_desc:0 "The fate of the Armenian people was already at the heart of the discussions surrounding the treaty of Versailles, but aspirations of the Armenian nationalist were swept away by the Treaty of Kars and the Soviet oppression. Many Armenians live in exile and hope that one day, a free Armenia will once again appear on the maps."
+ ARM_liberators:0 "아르메니아의 해방자"
+ 
+ Armenian_question_category:0 "아르메니아 문제"
+ Armenian_question_category_desc:0 "아르메니아인들의 운명에 대해 베르사유 조약을 둘러싼 논의가 있었지만, 아르메니아 민족주의자들의 희망은 카스 조약과 소련의 압박으로 인해 짓밟혔습니다. 수많은 아르메니아인들은 망명생활을 하며 언젠가는 자유로운 아르메니아가 다시 지도에 나타나기를 바랍니다." 
  ARM_form_armenian_national_council:0 "Form an Armenian National Council"
  ARM_establish_armenian_legion:0 "Recruit an Armenian Legion"
  ARM_establish_armenian_legion_cost:0 "£army_experience §H10§! £pol_power §H25§! £command_power §H25§!"
