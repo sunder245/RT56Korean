@@ -1,45 +1,44 @@
-﻿l_english:
- scw_over:0 "The Spanish Civil War is Over"
- unlock_congo_tree:0 "The Congo tree will be unlocked on the 14th of January"
+l_english:
+ scw_over:0 "스페인 내전 종전"
  
- COG_italian_research_name:0 "Congolese-Italian Research Collaboration"
+ COG_italian_research_name:0 "콩고-이탈리아 연구 모임"
  
- recruit_dutch_generals_tooltip:0 "While the decision is active, up to 3 generals will be offered to join our cause."
- recruit_generals_tooltip:0 "While the decision is active, up to 3 generals will be offered to join our cause."
+ VICTORY_POINTS_516:0 "브뤼셀"
+ VICTORY_POINTS_1950:0 "스탠리빌" 
  
  BEL_communism_party:0 "PCB/PKB"
- BEL_communism_party_long:0 "Parti communiste de Belgique/Kommunistische Partij van België"
- BEL_democratic_party:0 "PCS/KVV - PL/LP - POB/BWP"
- BEL_democratic_party_long:0 "Parti Catholique Social/Katholieke Vlaamse Volkspartij - Parti Libéral/Liberale Partij - Parti Ouvrier Belge/Belgische Werkliedenpartij"
- BEL_neutrality_party:0 "Leopoldists"
- BEL_fascism_party:0 "Rex - Verdinaso"
- BEL_fascism_party_long:0 "Parti Rexiste - Verbond der Dietsche Nationaal-Solidaristen"
- BELverdinaso_party:0 "Verdinaso - Rex"
- BELverdinaso_party_long:0 "Verbond der Dietsche Nationaal-Solidaristen - Parti Rexiste"
+ BEL_communism_party_long:0 "벨기에 사회당"
+ BEL_democratic_party:0 " PCS/KVV - PL/LP - POB/BWP"
+ BEL_democratic_party_long:0 "가톨릭 사회당 - 자유당 -  벨기에 노동당"
+ BEL_neutrality_party:0 "레오폴 왕가"
+ BEL_fascism_party:0 "페르디나소"
+ BEL_fascism_party_long:0 "렉시스트당 - 벨기에 사회연대주의 연합"
+ BELverdinaso_party:0 "페르디나소 - 렉시스트"
+ BELverdinaso_party_long:0 "렉시스트당 - 벨기에 사회연대주의 연합"
  VLAsocialist_party:0 "VWP"
- VLAsocialist_party_long:0 "Vlaamsche Werkliedenpartij" 
+ VLAsocialist_party_long:0 "플랑드르 노동당" 
  VLAsocialist_catholic_coalition_party:0 "VWP-KP"
- VLAsocialist_catholic_coalition_party_long:0 "Vlaamsche Werkliedenpartij-Katholieke Partij"
+ VLAsocialist_catholic_coalition_party_long:0 "플랑드르 노동당 - 기독당"
  VLAcatholic_socialist_coalition_party:0 "KP-VWP"
- VLAcatholic_socialist_coalition_party_long:0 "Katholieke Partij-Vlaamsche Werkliedenpartij" 
- 
- BEL_communism:0 "Belgian People's Republic" 
- COG_neutrality_party:0 "GGC"
- COG_neutrality_party_long:0 "Gouvernorat Général du Congo" 
- COG_democratic_party:0 "ABAKO"  
- COG_democratic_party_long:0 "Alliance des Bakongo"
-  
-  
- BEL_charles_bastin:0 "Charles Bastin"
- BEL_jules_bastin:0 "Jules Bastin" 
+ VLAcatholic_socialist_coalition_party_long:0 "기독당 - 플랑드르 노동당" 
 
- tblra_leopold3:0 "Léopold III"
- tblra_leopold3_desc:0 "Léopold III, king of the Belgians, reigns but doesn't rule. Even though he is supreme commander of the Belgian army, effective command is held by the chief of staff."
- tblra_leopold3_captive:0 "Léopold III, imprisoned"
- tblra_leopold3_captive_desc:0 "Léopold III is in captivity, we will have to go deep into enemy territory in order to free him."
- tblra_leopold3_exile:0 "Léopold III is in exile" 
- tblra_charles_regent:0 "Prince-Regent Charles"
- tblra_charles_regent_desc:0 "While the King is unable to rule, his brother, Prince Charles will take his place as Regent of the Kingdom." 
+ BEL_communism:0 "벨기에 인민 공화국"
+ COG_neutrality_party:0 "GGC"
+ COG_neutrality_party_long:0 "콩고 통합정부"
+ COG_democratic_party:0 "ABAKO"  
+ COG_democratic_party_long:0 "콩고족 연합"
+  
+  
+ BEL_charles_bastin:0 "찰스 바스탱"
+ BEL_jules_bastin:0 "쥘 바스탱" 
+
+ tblra_leopold3:0 "레오폴 3세"
+ tblra_leopold3_desc:0 "벨기에의 국왕 레오폴 3세는 군림하나 지배하지 않으며, 벨기에군의 최고 사령관입니다. 물론 명령 대부분은 일반 장교들이 내렸지만요."
+ tblra_leopold3_captive:0 "감금된 레오폴 3세"
+ tblra_leopold3_captive_desc:0 "레오폴 3세가 붙잡혔으니, 구출해내기 위해 적진 깊숙히 들어가야 합니다."
+ tblra_leopold3_exile:0 "유배된 레오폴 3세" 
+ tblra_charles_regent:0 "샤를 왕자의 섭정"
+ tblra_charles_regent_desc:0 "국왕께서 직접 통치하실 수 없으니, 왕의 남동생이신 샤를 왕자가 섭정으로서 국사를 돌볼 것입니다."  
  
  BEL_Pierre_Daye:0 "Pierre Daye " #better choice than Theugels
  BEL_Pierre_Daye_desc:0 "Pierre Daye was the chief of the Rexist group in the Belgian parliament. He was also the only Rexist that was seen as acceptable by the royal palace, while Degrelle was considered a troublemaker. As he had a bad opinion of the other Rexist representatives, he left the movement before the start of the war."
