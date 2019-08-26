@@ -156,13 +156,13 @@ axis_minors_bulgaria.1.t:0 "The Bulgarian Government Announce their Support to C
  axis_minors_ruthenia.6.t:0 "루테이아인들이 타협을 요구"
  axis_minors_ruthenia.6.desc:0 "체코슬로바키아가 사라지면서, 가장 험준한 산악 지방에 거주하는 루신인들이 어느 정도의 자치권을 부여해주길 요구해 왔습니다." 
  axis_minors_ruthenia.6.a:0 "그들에게 자치권을 줍시다"  
- axis_minors_ruthenia.6.b:0 "그들을 슬로바키아의 영향권 아래 둡시다"
- axis_minors_ruthenia.6.c:0 "그들을 공격합시다"
+ axis_minors_ruthenia.6.b:0 "그들을 슬로바키아의 영향권 아래 두어라."
+ axis_minors_ruthenia.6.c:0 "그들을 공격하라."
 
  axis_minors_ruthenia.7.t:0 "루테니아인들이 통일을 요구하다"
  axis_minors_ruthenia.7.desc:0 "체코슬로바키아의 가장 험준한 지역의 지도자였던 [RUT.GetLeader] 이/가 루신인의 땅을 우크라이나에 합병시킬 것을 요구합니다." 
- axis_minors_ruthenia.7.a:0 "완벽하군요."  
- axis_minors_ruthenia.7.b:0 "그럴 순 없습니다."
+ axis_minors_ruthenia.7.a:0 "완벽하군."  
+ axis_minors_ruthenia.7.b:0 "그럴 수는 없다."
 #Croatia 크로아티아
  
  axis_minors_croatia.1.t:0 "유고슬라비아와의 재연합"
