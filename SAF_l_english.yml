@@ -1,16 +1,16 @@
 ﻿l_english:
 #Training expansion South African Military College-> 1939
  #actually royal mint pretoria built facilities on magazine hill
- SAF_magazine_hill_arsenal:0 "Magazine Hill Arsenal"
- SAF_royal_mint_pretoria:0 "Royal Mint Pretoria"
+ SAF_magazine_hill_arsenal:0 "매거진 힐 병기창"
+ SAF_royal_mint_pretoria:0 "프리토리아 왕립 조폐국"
  SAF_lenz_bomb_factory:0 "Lenz Bomb Factory"
  SAF_SAR_and_H:0 "SAR & H"
  #known as BPI
- SAF_bpi:0 "Bernard Price Institute of Geophysical Research"
- SAF_aveng:0 "Aveng"
- SAF_dorman_long_africa:0 "Dorman Long Africa"
- SAF_cape_town_yard:0 "Cape Town Yard"
- SAF_durban_yard:0 "Durban Yard"
+ SAF_bpi:0 "버나드 프라이스 지구물리학 연구소"
+ SAF_aveng:0 "아벵"
+ SAF_dorman_long_africa:0 "도먼롱 아프리카"
+ SAF_cape_town_yard:0 "케이프타운 조차장"
+ SAF_durban_yard:0 "더반 조차장"
 
  #replace, but don't work yet
  SAF_c_de_weenburg_du_toit:0 "Christiaan du Toit"
