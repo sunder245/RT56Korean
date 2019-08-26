@@ -1,36 +1,36 @@
-﻿l_english:
+l_english:
  
  #Generic
  is_controlled_by_ROOT_or_subject:0 "Is controlled by §Y[Root.GetName]§! or one of §Y[Root.GetName]§!'s subjects." # Oddly, this one is paradox, but they never localized it
  EYE_enough_production_tt:0 "Enough building slots for §YMilitary Factory§!."
  EYE_construction_effort_tt:0 "Enough building slots for §YCivilian Factory§!."
- EYE_overlord_neutral_tt:0 "Overlord is non-aligned"
- EYE_overlord_democratic_tt:0 "Overlord is democratic"
- EYE_overlord_fascist_tt:0 "Overlord is fascist"
- EYE_overlord_communist_tt:0 "Overlord is communist"
+ EYE_overlord_neutral_tt:0 "비동맹주의 우세"
+ EYE_overlord_democratic_tt:0 "민주주의 우세"
+ EYE_overlord_fascist_tt:0 "파시즘 우세"
+ EYE_overlord_communist_tt:0 "공산주의 우세"
  EYE_next_line_tt:0 "\n"
 
  #flags
- SWI_reliance_on_militia:0 " Relying On Militia System"
+ SWI_reliance_on_militia:0 "민병대 제도 의존"
  
  #Switzerland
- SWI_reorganized_af:0 "Re-organized Air Arm"
- SWI_army_review:0 "Army Reviewed"
- SWI_extra_tech:0 "Extraordinary Technology"
- SWI_extra_tech_2:0 "Extraordinary Technology"
- SWI_update_infantry:0 "Modernized Infantry"
- SWI_update_infantry_2:0 "Modern Army Techniques"
- SWI_fuel_tech:0 "Synthetic Need"
- SWI_agri_tech:0 "Agricultural Advances"
- SWI_ger_air_inno:0 "German Air Innovations"
- SWI_ita_air_inno:0 "Italian Air Innovations"
- SWI_soviet_weapons:0 "Soviet Weaponry"
- SWI_soviet_weapons_2:0 "Soviet Artillery"
- SWI_air_defence_tech:0 "Aerospace Defence Techniques"
- SWI_rocket_tech:0 "Jet Tech"
- SWI_alt_air:0 "Alternative Aircraft"
- SWI_nav_air:0 "Naval Airpower"
- SWI_wunder:0 "Wunderwaffen"
+ SWI_reorganized_af:0 "공군 재편성"
+ SWI_army_review:0 "육군 재검토"
+ SWI_extra_tech:0 "특별한 기술"
+ SWI_extra_tech_2:0 "특별한 기술"
+ SWI_update_infantry:0 "현대화된 보병장비"
+ SWI_update_infantry_2:0 "현대화된 군기술"
+ SWI_fuel_tech:0 "합성화학의 수요"
+ SWI_agri_tech:0 "농업의 발전"
+ SWI_ger_air_inno:0 "독일의 공군 혁신"
+ SWI_ita_air_inno:0 "이탈리아의 공군 혁신"
+ SWI_soviet_weapons:0 "소련의 무기제조기술"
+ SWI_soviet_weapons_2:0 "소련의 야포"
+ SWI_air_defence_tech:0 "항공 방어기술"
+ SWI_rocket_tech:0 "제트기술"
+ SWI_alt_air:0 "대체 전투기"
+ SWI_nav_air:0 "해군 공권력"
+ SWI_wunder:0 "원더 웨폰(최종병기)"
  
  SWI_choose_cons_tt:0 "Raises the number of men that can be raised through the militia system.\n"
  SWI_choose_cons_2_tt:0 "Raises the quality of raised militia units.\n"
@@ -43,7 +43,7 @@
  ICE_no_six:0 "§RYou will not recieve a sixth research slot if you have five already.§!\n" 
  
  #FOCUS
- SWI_geistige:0 "Promote Geistige Landesverteidigung"
+ SWI_geistige:0 "국방의 정신력 증진"
  SWI_geistige_desc:0 "In 1935, councilman Fritz Hauser began an examination of how to protect our country's spiritual independance from the fascists and communists. That examination has led to the proposal of the Geistige Landesverteidigung, or Spiritual National Defence, which calls for freedom, democracy, self-determination, and a balanced government. We should accept this proposal with all haste."
  SWI_richtlinienbewegung:0 "Support the Richtlinienbewegung"
  SWI_richtlinienbewegung_desc:0 "The elites have ruined the country and with our economy crushed after the crash of 1929, have still not managed to fix our numerous problems. Now vultures from the extreme left and right circle us, preparing to sweep our country into their waiting wings! No more, we must form a new alliance, one dedicated to helping the people, but not at the cost of our freedom!"
@@ -52,7 +52,7 @@
  SWI_rise_of_front:0 "Rise of the Front"
  SWI_rise_of_front_desc:0 "The inability of the government to come to any sort of agreement has led to an increasingly violent climate where the people have become drawn to causes once considered fringe."
  
- SWI_helvetia:0 "Pro-Helvetia"
+ SWI_helvetia:0 "헬베티아를 위하여"
  SWI_helvetia_desc:0 "While the armed defence of the nation, together with the preparation and organisation of such defence, is exclusively a matter of the state – indeed its primary duty – we wish to leave the spiritual defence of the nation primarily in the hands of the citizen. The state should have the necessary means at its disposal, and retain the right to oversee the use of these means."
  SWI_fortress:0 "Operations Order No. 12"
  SWI_heer:0 "Heer und Haus"
@@ -365,8 +365,8 @@
  SWI_mobilize_1:0 "Militia Mobilize"
  
  #MAP
- VICTORY_POINTS_636:0 "Gotthard Pass"
- VICTORY_POINTS_6666:0 "Genève"
+ VICTORY_POINTS_636:0 "고타르 고개"
+ VICTORY_POINTS_6666:0 "제네바"
  
  neutrality_advocate:0 "Neutrality Advocate"
  neutrality_advocate_desc:0 "This politician strongly believes in avoiding entangling alliances unless strictly necessary."
