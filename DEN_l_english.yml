@@ -3,24 +3,24 @@
  #DANISH REGION ===============================================================================================================================
  
  #Fixed Link
- DEN_fixed_link:0 "Fixed Link"
- DEN_fixed_link_desc:0 "The Danish Belt in the modernday takes an hour to cross by ferry. This is simply unacceptable for any modern nation - and with war looming, it may be fatal. Our infrastructure must be updated before any other project can be considered."
- DEN_fixed_link_tt:0 "Add maximum §YInfrastructure§! in §YSjaelland§! and §YJutland§!"
+ DEN_fixed_link:0 "고정 링크"
+ DEN_fixed_link_desc:0 "오늘날 덴마크 해협은 페리를 카고 건너는데 1시간이 걸립니다. 이것은 어떤 현대 국가에도 받아들여 질 수 없는 일이며, 전쟁이 다가오는 상황에서, 이는 치명적일 수 있습니다. 우리의 인프라는 다른 어떤 프로젝트가 고려되기 전에 개선되어야만 합니다. "
+ DEN_fixed_link_tt:0 "§Y기반시설§! 이 §Y셸란§! and §Y유틀란드§! 에 최대로 추가됩니다"
  
  #Industrialise Scania
- DEN_industrialise_scania:0 "Industrialise Scania"
- DEN_industrialise_scania_desc:0 "Sweden is a very modernized country, and an example for us all, but there is room for improvement. The industrialisation of mainland Scandinavia will begin close to our home."
+ DEN_industrialise_scania:0 "스카니아 산업화"
+ DEN_industrialise_scania_desc:0 "스웨덴은 매우 현대화된 국가로써 우리 모두에게 모범이 되지만, 개선의 여지가 있습니다. 스칸디나비아 본토의 산업화는 우리의 집에서 가까운 곳부터 시작될 것입니다."
  
  #Industrialise Southern Sweden
- DEN_industrialise_southern_sweden:0 "Industrialise Southern Sweden"
- DEN_industrialise_southern_sweden_desc:0 "Scania was an excellent first step, but we can do better. We will reach our efforts northwards, and our capacity will increase in turn. The densely populated south of Sweden is ripe for modernisation."
+ DEN_industrialise_southern_sweden:0 "남부 스웨덴 산업화"
+ DEN_industrialise_southern_sweden_desc:0 "스카니아는 완벽한 첫 걸음이었지만, 우리는 더 잘할 수 있습니다. 우리는 우리의 노력을 북부에 닿게 할 것이고, 우리의 능력은 점차 증가할 것입니다. 인구밀도가 높은 스웨덴 남부는 현대화의 때가 무르익었습니다."
  
  #Industrialise Northern Sweden
- DEN_industrialise_northern_sweden:0 "Industrialise Northern Sweden"
- DEN_industrialise_northern_sweden_desc:0 "Our work is almost done, and logically ends in the north. Our efforts will bring Sweden firmly into the modern age."
+ DEN_industrialise_northern_sweden:0 "북부 스웨덴 산업화"
+ DEN_industrialise_northern_sweden_desc:0 "우리의 작업은 거의 끝났으며, 당연히 북부에서 끝날 것입니다. 우리의 노력은 스웨덴을 확고하게 현대 시대로 진입시킬 것입니다."
  
  #Road To The North
- DEN_road_to_the_north:0 "Road to the North"
+ DEN_road_to_the_north:0 "북쪽으로의 길"
  DEN_road_to_the_north_desc:0 "Now that Sweden is industrialised, we must turn our attention to their infrastructure. It will be a mammoth undertaking, but integration with our own Fixed Link is both feasible and necessary."
  DEN_road_to_the_north_tt:0 "Add maximum §YInfrastructure§! in §YScania§!, §YSmåland§!, §YVästergötland§!, §YSvealand§!, §YNorrland§! and §YLappland§!"
  
@@ -29,7 +29,7 @@
  DEN_the_baltic_sea_wall_desc:0 "The Scandinavian people have the potential for complete leverage over the Baltic, but for that to be the case we must first protect ourselves from seaborne forces. This will be the next step in bringing Sweden up to Danish standards."
  
  #The Lappland Line
- DEN_the_lappland_line:0 "The Lappland Line"
+ DEN_the_lappland_line:0 "라플란드선"
  DEN_the_lappland_line_desc:0 "The Soviet interest in Finland means that we cannot leave our eastern security up to chance. With our means of production and our protection by sea secured, we must ensure that nothing will enter Sweden unasked for by land."
  DEN_the_lappland_line_tt:0 "Add §Y12 Land Forts§! on the Finnish border.\n"
  
