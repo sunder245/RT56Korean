@@ -1,29 +1,29 @@
-﻿#####-----> Patreon Localization by Greatexperiment <><> <><> <><> <><> <><>
+#####-----> Patreon Localization by Greatexperiment <><> <><> <><> <><> <><>
 
 l_english:
 
 ###---> Meep <><> <><> <><>
- r56_local_text_patreon_group: "Collapse Me"
+ r56_local_text_patreon_group: "닫기"
  
 #-> Patreon Tooltips <><>
-  r56_tooltip_patreon_credits: "Shows the credits for our Patreon and special thanks to those that have contributed."
-   r56_tooltip_patreon_easteregg: "Activates the Easter Egg event chain, unlocking all hidden content. For lazy people that can't do it the hard way."
-   r56_tooltip_patreon_turnedoff: "This will turn off the Road to 56 notes, since you asked so nicely."
-   r56_tooltip_patreon_leaders: "Places all of our Patreon Generals and Country Leaders for use by anyone."
+  r56_tooltip_patreon_credits: "우리의 Patreon들의 목록을 보이고 모드에 기여한 분들에게 특별한 감사를 드립니다."
+   r56_tooltip_patreon_easteregg: "일련의 이스터 에그를 작동시키고, 숨겨진 컨텐츠를 모두 해금합니다. 어려운 방법으로는 하지 못하는 게으른 사람들을 위한 기능입니다."
+   r56_tooltip_patreon_turnedoff: "Road to 56 노트를 끕니다. 어휘가 아름다우시네요."
+   r56_tooltip_patreon_leaders: "누구나 사용할 수 있게 우리의 Patreon 장군 및 지도자를 만듭니다."
    
 #-> Patreon Events <><>
-  r56.event.patreon.01.title: "The List of Soldiers"
-   r56.event.patreon.01.description: "These fine people have contributed to our endeavors and must be thanked! \n\n CTomic, James Michael Smith, TastesLikeWall, John Stinde, Emily Zimmerman-Kościuszko, VisualVx, Spencer, Logan Calkins, Jystr, Max Putinsev and Wei! \n\n Thank you so much. You're the best, and we'd die without your sweet love."
-   r56.event.01.default: "Very Nice!"
-   r56.event.01.alternate: "Okay, but never show this again."
+  r56.event.patreon.01.title: "병사 목록"
+   r56.event.patreon.01.description: "이 멋진 사람들은 우리의 노력에 기여한 분들이며 감사받아야 합니다! \n\n CTomic, James Michael Smith, TastesLikeWall, John Stinde, Emily Zimmerman-Kościuszko, VisualVx, Spencer, Logan Calkins, Jystr, Max Putinsev, Wei! \n\n 감사합니다. 최고에요. 여러분의 따듯한 사랑이 아니었다면 우린 아마 죽었을 거에요."
+   r56.event.01.default: "좋아요!"
+   r56.event.01.alternate: "알겠어요, 그런데 다시 띄우지는 마세요."
    
 #-> Patreon Decisions <><>
   r56_decision_category_patreon: "Road to 56"
-   r56_decision_category_patreon_desc: "Contains credits for our Patreon, and more to come!"
+   r56_decision_category_patreon_desc: "Patreon 후원자들의 크레딧 등 여러 내용이 있습니다!"
 
-   r56_decision_patreon_credits: "Contributors"
-   r56_decision_patreon_easteregg: "Nekrowombicon Activation"
-   r56_decision_patreon_turnedoff: "I Banish Thee!"
-   r56_decision_patreon_leaders: "Create Patreon Generals and Leaders"
+   r56_decision_patreon_credits: "기여자"
+   r56_decision_patreon_easteregg: "네크로웜비콘 활성화"
+   r56_decision_patreon_turnedoff: "당신을 추방합니다!"
+   r56_decision_patreon_leaders: "Patreon 장군 및 지도자 생성"
    
 #####-----> End <><> <><> <><> <><> <><>
