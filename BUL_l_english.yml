@@ -8,19 +8,19 @@ l_english:
 
 
 #variables
-BUL_support_yugoslavian_seperatists:0 "Support Yugoslavian Seperatists"
-BUL_support_yugoslavian_seperatists_desc:0 "Yugoslavia. A abomination born out of the treaty of Versailles. Many in our neighbour wish to create their own homeland , and that could be twisted to the state’s needs. We will supply them with arms to ‘liberate’ themselves.
-BUL_support_yugoslavian_seperatists_category:0 "Support Seperatists"
-BUL_support_yugoslavian_seperatists_category_desc:0 "Many Yugoslavian minorities struggle for independance,including the vardar Macedonians who we border,if we can fund then they can rise up and become our valuable allies in the balkans.\nSeperatist Support in Macedonia: §Y[?BUL.macedonian_support]%§!\n\nSeperatist Support in Croatia: §Y[?BUL.croatian_support]%§!\n\nSeperatist Support In Slovenia: §Y[?BUL.slovenian_support]%§!\n\nSeperatist Support in Bosnia: §Y[?BUL.bosnian_support]%§!"
+BUL_support_yugoslavian_seperatists:0 "유고슬라비아 분리주의자들을 지원하다"
+BUL_support_yugoslavian_seperatists_desc:0 "유고슬라비아는 베르사유 조약의 역겨운 사생아에 불과한 놈들입니다. 우리 이웃들 중 많은 자들은 그들 자신의 고토를 마련하고 싶어하고, 그것은 우리 나라의 실리와 직결됩니다. 우리는 그들 자신을 스스로 '해방' 시킬 수 있도록 무기를 지원할 것입니다."
+BUL_support_yugoslavian_seperatists_category:0 "분리주의자들을 지원하자"
+BUL_support_yugoslavian_seperatists_category_desc:0 "바르다르 마케도니아인들을 포함한 많은 유고슬라비아 소수민족들은 자주 독립을 위해 투쟁하고 있습니다. 만일 우리가 그들을 지원한다면, 나중에 그들의 국가는 발칸 반도의 든든한 지원군이 되어 줄 것입니다.\n마케도니아 분리주의자 지원: §Y[?BUL.macedonian_support]%§!\n\nSeperatist Support in Croatia: §Y[?BUL.croatian_support]%§!\n\nSeperatist Support In Slovenia: §Y[?BUL.slovenian_support]%§!\n\nSeperatist Support in Bosnia: §Y[?BUL.bosnian_support]%§!"
 BUL_support_imro:0 "Support IMRO:\n§R+100% Support in Macedonia§!"
-BUL_support_slovene_seperatists:0 "Support Slovene Seperatists:\n§R+100% Support in Slovenia§!"
-BUL_support_croatian_seperatists:0 "Support Croatian Seperatists:\n§R+100% Support in Croatian§!"
-BUL_support_bosnian_seperatists:0 "Support Bosnian Seperatists:\n§R+100% Support in Bosnian§!"
+BUL_support_slovene_seperatists:0 "슬로베니아 분리주의 운동 지원:\n§R+100% Support in Slovenia§!"
+BUL_support_croatian_seperatists:0 "크로아티아 분리주의 운동 지원:\n§R+100% Support in Croatian§!"
+BUL_support_bosnian_seperatists:0 "보스니아 분리주의 운동 지원:\n§R+100% Support in Bosnian§!"
 BUL_start_the_invasion:0 "§RStart The Invasion§!"
-BUL_supported_macedonia:0 "Supported Macedonia"
-BUL_supported_slovenia:0 "Supported Slovenia"
-BUL_supported_croatia:0 "Supported Croatia"
-BUL_supported_bosnia:0 "Supported Bosnia"
+BUL_supported_macedonia:0 "마케도니아 지원 완료"
+BUL_supported_slovenia:0 "슬로베니아 지원 완료"
+BUL_supported_croatia:0 "크로아티아 지원 완료"
+BUL_supported_bosnia:0 "보스니아 지원 완료"
 
 
 BUL_GATHERING_STORM_DESC:0 "After Tsar Boris brought down Kimon Georgiev's military regime, Bulgaria found itself increasingly under absolutist authority, far from what its constitution adopted at independence guaranteed.Surrounded by former enemies and greatly reduced in size following successive defeats during the Second Balkan War and the Second World War, revanchist ideologies have continued to gain in popularity, and may well bring Bulgaria back on the road to war."
